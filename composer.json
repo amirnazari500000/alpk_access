@@ -1,0 +1,18 @@
+{
+    "name": "amirnazari500000/alpk_access",
+    "description": "It is a Laravel package for user roles and access that allows you to define its access when creating a route.",
+    "require": {
+        "php": "^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Amirnazari500000\\AlpkAccess\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amir Nazari",
+            "email": "amirnazari500@gmail.com"
+        }
+    ]
+}
