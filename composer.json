@@ -6,8 +6,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Amirnazari500000\\AlpkAccess\\": "src/",
-            "Amirnazari500000\\AlpkAccess\\Vue": "vue/"
+            "Amirnazari500000\\AlpkAccess\\": "src/"
         }
     },
     "authors": [
